@@ -1,38 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T04:01:28.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GX-q41OnEJGgsMmCUh7n" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T07:06:15.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ytN7M8VNhJOUJ6OY_K0t" version="14.8.5" type="github">
   <diagram id="g-PtNnHFD2_0pPcHWypA" name="第 1 页">
-    <mxGraphModel dx="1673" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-1" value="&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206)&quot;&gt;seckillUserService&lt;/span&gt;.&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;login&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;response&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;loginVo&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;glass=0;fontColor=#ffffff;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-1" value="&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206)&quot;&gt;seckillUserService&lt;/span&gt;.&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;login&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;response&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;loginVo&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;glass=0;fontColor=#1A1A1A;fillColor=none;strokeColor=#FFFFFF;shadow=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry y="37.5" width="260" height="112.5" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;" parent="1" vertex="1">
-          <mxGeometry x="85" y="17.5" width="70" height="20" as="geometry" />
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-2" value="&lt;pre style=&quot;background-color: #292a30 ; color: #dfdfe0 ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 12.8pt&quot;&gt;&lt;span style=&quot;color: #ff806c&quot;&gt;/do_login&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Space Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSpace%2BMono;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="11.25" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;glass=0;sketch=0;fillColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;glass=0;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="29.61" width="40" height="128.28" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;1.判断手机号是否存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;1.判断手机号是否存在&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="29.61" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;2.&lt;span&gt;判断手机号对应的密码是否一致&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;2.&lt;span&gt;判断手机号对应的密码是否一致&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="83.75" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" source="RbGjA8E4n4S1d_bPEmI9-14" target="RbGjA8E4n4S1d_bPEmI9-20" edge="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBackgroundColor=#182E3E;curved=1;" parent="1" source="RbGjA8E4n4S1d_bPEmI9-14" target="RbGjA8E4n4S1d_bPEmI9-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-14" value="&lt;pre style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;3.登录成功，生成&lt;span style=&quot;font-family: &amp;#34;cascadia code pl&amp;#34; , monospace&quot;&gt;cookie&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-14" value="&lt;pre style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;3.登录成功，生成&lt;span style=&quot;font-family: &amp;#34;cascadia code pl&amp;#34; , monospace&quot;&gt;cookie&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="120" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.015;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" parent="1" source="RbGjA8E4n4S1d_bPEmI9-18" target="RbGjA8E4n4S1d_bPEmI9-8" edge="1">
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.015;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBackgroundColor=#182E3E;curved=1;" parent="1" source="RbGjA8E4n4S1d_bPEmI9-18" target="RbGjA8E4n4S1d_bPEmI9-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过缓存读取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="830" y="11.25" width="115" height="47.5" as="geometry" />
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过缓存读取&lt;/font&gt;" style="whiteSpace=wrap;html=1;glass=0;strokeColor=#FFFFFF;fillColor=none;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="15.86" width="115" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="RbGjA8E4n4S1d_bPEmI9-20" value="&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206)&quot;&gt;redisService&lt;/span&gt;.&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(130 , 230 , 255)&quot;&gt;SeckillUserKeyPrefix&lt;/span&gt;.&lt;span style=&quot;color: rgb(73 , 176 , 206) ; font-style: italic&quot;&gt;token&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;token&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;span style=&quot;color: rgb(127 , 140 , 153)&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(127 , 140 , 153)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(130 , 230 , 255)&quot;&gt;Cookie &lt;/span&gt;&lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;cookie &lt;/span&gt;= &lt;span style=&quot;color: rgb(249 , 123 , 176) ; font-weight: bold&quot;&gt;new &lt;/span&gt;&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;Cookie&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206) ; font-style: italic&quot;&gt;COOKIE_NAME_TOKEN&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;token&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="690" y="80" width="650" height="70" as="geometry" />
+        <mxCell id="RbGjA8E4n4S1d_bPEmI9-20" value="&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206)&quot;&gt;redisService&lt;/span&gt;.&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;set&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(130 , 230 , 255)&quot;&gt;SeckillUserKeyPrefix&lt;/span&gt;.&lt;span style=&quot;color: rgb(73 , 176 , 206) ; font-style: italic&quot;&gt;token&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;token&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;user&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;span style=&quot;color: rgb(127 , 140 , 153)&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(127 , 140 , 153)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(130 , 230 , 255)&quot;&gt;Cookie &lt;/span&gt;&lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;cookie &lt;/span&gt;= &lt;span style=&quot;color: rgb(249 , 123 , 176) ; font-weight: bold&quot;&gt;new &lt;/span&gt;&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;Cookie&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206) ; font-style: italic&quot;&gt;COOKIE_NAME_TOKEN&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;token&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;glass=0;strokeColor=#FFFFFF;fillColor=none;fontColor=#1A1A1A;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="655" y="83.75" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-2" value="&lt;pre style=&quot;background-color: #292a30 ; color: #dfdfe0 ; font-family: &amp;quot;cascadia code pl&amp;quot; , monospace ; font-size: 12.8pt&quot;&gt;&lt;span style=&quot;color: #ff806c&quot;&gt;/do_miaosha&lt;/span&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-4" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;1.如果用户为空，返回登录界面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="315" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-6" value="&lt;pre style=&quot;font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 18px&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;4. &lt;span style=&quot;font-family: , monospace&quot;&gt;判断是否为重复秒杀&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="435" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-7" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#ffffff&quot;&gt;2.获取内存标记（表示该商品有无卖完）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="355" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;labelBackgroundColor=#182E3E;fontColor=#FFFFFF;curved=1;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-8" target="rQuRhvQBDRZluId032Ax-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过缓存读取订单，如果存在订单，则是重复秒杀&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#FFFFFF;fillColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="395" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-10" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;5.将秒杀请求放入MQ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="495" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-15" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;当然要消费了&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="10" y="650" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;3.通过缓存预减库存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="175" y="405" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;1.获取秒杀用户信息和商品id&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="170" y="602.51" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-19" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;2.获取商品库存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="170" y="652.51" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.043;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-20" target="rQuRhvQBDRZluId032Ax-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="612.51" />
+              <mxPoint x="410" y="664.51" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-20" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过数据库获取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="585" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-22" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;3.判断是否已经秒杀到了&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="170" y="702.51" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-23" target="rQuRhvQBDRZluId032Ax-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过缓存读取订单，如果存在订单，则是重复秒杀&lt;/font&gt;" style="whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#FFFFFF;fillColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="652.51" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-27" value="&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 12.8pt&quot;&gt;&lt;span style=&quot;color: rgb(73 , 176 , 206)&quot;&gt;seckillService&lt;/span&gt;.&lt;span style=&quot;color: rgb(117 , 194 , 179)&quot;&gt;seckill&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(223 , 223 , 224) ; font-family: &amp;#34;cascadia code pl&amp;#34; , monospace ; font-size: 12.8pt&quot;&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;user&lt;/span&gt;, &lt;span style=&quot;color: rgb(252 , 252 , 252)&quot;&gt;goods&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 162 , 69) ; font-style: italic&quot;&gt;)&lt;/span&gt;;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="830" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#d6b656;exitX=0.474;exitY=1.2;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="570" />
+              <mxPoint x="60" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="595.63" width="40" height="164.37" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;strokeColor=#d6b656;fillColor=#fff2cc;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-39" target="rQuRhvQBDRZluId032Ax-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-39" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;4.秒杀&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="170" y="740" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-41" value="1.减库存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-42" value="2.生成订单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-43" value="3.更新缓存中的库存信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-44" target="rQuRhvQBDRZluId032Ax-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-44" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;通过数据库减缓存&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="760" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="rQuRhvQBDRZluId032Ax-46" target="rQuRhvQBDRZluId032Ax-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-46" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px&quot;&gt;写入订单和秒杀订单表，并存入缓存&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="840" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rQuRhvQBDRZluId032Ax-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="795.7099999999999" width="20" height="138.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

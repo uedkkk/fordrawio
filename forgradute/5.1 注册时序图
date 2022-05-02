@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T06:02:12.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.5.0" etag="Kptpz4KFtDckHy3FVOWM" type="github"><diagram id="kr5FFowOQvP1gB4csTPy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-02T06:27:20.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="G6B38yS5ehG_NNGBw124" version="17.5.0" type="github">
+  <diagram id="kr5FFowOQvP1gB4csTPy" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-2" value="用户" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="30" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-2">
+          <mxGeometry x="10" y="60" width="10" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-3" value="前端wb界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-3">
+          <mxGeometry x="45" y="100" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-4" value="MallUserController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-4">
+          <mxGeometry x="45" y="120" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-5" value="MallUserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-5">
+          <mxGeometry x="45" y="140" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-6" value="MallUserMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-6">
+          <mxGeometry x="45" y="160" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-7" value="MySQL" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="110" width="100" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UlRwd_8oFzqn-RC5xUpw-7">
+          <mxGeometry x="45" y="180" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-9" value="输入手机号、密&lt;br&gt;码、验证码注册" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="UlRwd_8oFzqn-RC5xUpw-8" parent="1" source="UlRwd_8oFzqn-RC5xUpw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-10" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="UlRwd_8oFzqn-RC5xUpw-8" parent="1" target="UlRwd_8oFzqn-RC5xUpw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-13" value="register接口调用" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="UlRwd_8oFzqn-RC5xUpw-12" parent="1" source="UlRwd_8oFzqn-RC5xUpw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-18" value="register方法执行" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="UlRwd_8oFzqn-RC5xUpw-17" parent="1" source="UlRwd_8oFzqn-RC5xUpw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-14" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="UlRwd_8oFzqn-RC5xUpw-12" parent="1" target="UlRwd_8oFzqn-RC5xUpw-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-19" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="UlRwd_8oFzqn-RC5xUpw-17" parent="1" target="UlRwd_8oFzqn-RC5xUpw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-21" value="save方法执行" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="UlRwd_8oFzqn-RC5xUpw-20" parent="1" source="UlRwd_8oFzqn-RC5xUpw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-24" value="保存到数据库" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="UlRwd_8oFzqn-RC5xUpw-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649.5" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-25" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="UlRwd_8oFzqn-RC5xUpw-23" parent="1" target="UlRwd_8oFzqn-RC5xUpw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlRwd_8oFzqn-RC5xUpw-22" value="返回结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="UlRwd_8oFzqn-RC5xUpw-20" parent="1" target="UlRwd_8oFzqn-RC5xUpw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
